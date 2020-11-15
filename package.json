@@ -59,11 +59,6 @@
             {
                 "title": "VZ File Templates",
                 "properties": {
-                    "vzfiletemplates.langServerProxyFolder": {
-                        "type": "string",
-                        "default": ".langserverproxy",
-                        "description": "Folder for temporary files used to discover workspace symbols."
-                    },
                     "vzfiletemplates.userTemplatesFolders": {
                         "type": "array",
                         "items": {
